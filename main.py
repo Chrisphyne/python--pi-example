@@ -1,2 +1,4 @@
-#/usr/bin/python2.7
-print("Hello World")
+#!/usr/bin/python2.7
+def main(msg):
+    print(msg)
+main("Hello people")
